@@ -3,3 +3,4 @@
 .vscode
 data/raw/adm
 src/ev_infra.egg-info
+update-readme-tree.sh

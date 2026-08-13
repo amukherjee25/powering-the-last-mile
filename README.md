@@ -6,7 +6,8 @@ Additional Data
 2. [India Population](https://hub.worldpop.org/geodata/summary?id=49804)
 
 ## Project Structure  
-Explore the full directory tree: [View on GitHub](https://github.com/amukherjee25/powering-the-last-mile/tree/main)  
- 
-Key directories:  
-- `src/`: Source code ([browse](https://github.com/amukherje25/powering-the-last-mile/tree/main/src))  
+<!-- TREE_START -->
+```text
+.
+<!-- TREE_END -->
+```
