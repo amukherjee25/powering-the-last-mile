@@ -1,0 +1,24 @@
+name: ev-infra
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - rasterio
+  - rasterstats
+  - contextily
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - scipy
+  - numpy-financial
+  - openpyxl        # read_excel for WB_RTO_vehicle_count.xlsx / wb-rto-3w.xlsx
+  - jupyterlab
+  - pip:
+      - lcoe         # not on conda-forge
+      - -e .         # editable install of ev_infra

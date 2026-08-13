@@ -1,1 +1,5 @@
 .DS_Store
+.claude
+.vscode
+data/raw/adm
+src/ev_infra.egg-info
